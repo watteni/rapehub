@@ -26,7 +26,7 @@ local Main = Rayfield:CreateWindow({
     }
 })
 
-local Core = Main:CreateTab("Hub")
+local Tab = Main:CreateTab("Hub")
 
 local Button = Tab:CreateButton({
    Name = "Vakware",
