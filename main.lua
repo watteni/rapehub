@@ -10,7 +10,7 @@ local Main = Rayfield:CreateWindow({
         FileName = "rapehub"
     },
     Discord = {
-        Enabled = false,
+        Enabled = true,
         Invite = "HbQeC5hM4V",
         RememberJoins = true
     },
